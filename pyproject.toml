@@ -8,4 +8,4 @@ version = "0.0.1"
 description = "Bedrock endstone plugin to colour other players' nicknames, visible only to the person who executed the command."
 
 [project.entry-points."endstone"]
-despia-p-p = "color_plugin:ColorPlugin"
+despia-p-p = "endstone_color_plugin:ColorPlugin"

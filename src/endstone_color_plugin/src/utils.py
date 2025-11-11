@@ -1,5 +1,5 @@
 from endstone import Player
-from color_plugin.src.packets import SetActorDataPacket
+from endstone_color_plugin.src.packets import SetActorDataPacket
 from bedrock_protocol.packets import MinecraftPacketIds
 
 def sendCustomNameToPlayerForPlayer(viewver : Player, target_id : int, name: str):

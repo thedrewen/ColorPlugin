@@ -1,7 +1,7 @@
 from endstone.plugin import Plugin
 from endstone.command import CommandSender, Command
 from endstone.form import ActionForm, Button
-from color_plugin.src.utils import sendCustomNameToPlayerForPlayer
+from endstone_color_plugin.src.utils import sendCustomNameToPlayerForPlayer
 from endstone import Player
 
 class ColorPlugin(Plugin):
